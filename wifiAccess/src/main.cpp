@@ -1,6 +1,6 @@
 #include <Arduino.h>
 #include <WiFi.h>
-// Replace with your network credentials
+// These can be anything 
 const char* ssid     = "ESP32-Access-Point";
 const char* password = "123456789";
 
