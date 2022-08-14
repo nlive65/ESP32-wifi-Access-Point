@@ -49,6 +49,7 @@ void loop(){
             
             
             // Display the HTML web page
+            //ADD UR WEBPAGE HERE 
             // Break out of the while loop
             break;
           } else { // if you got a newline, then clear currentLine
